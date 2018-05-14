@@ -8,7 +8,7 @@ import binascii
 import json
 from apiai import ApiAI
 from awesomedecorators import memoized
-from lifoid.parser import Parser
+from lifoid.nlu.parser import Parser
 
 SESSID_LENGTH = 12
 
